@@ -1,0 +1,89 @@
+index,class,general_class,general_class_id,imageNetId
+0,"Scotch terrier, Scottish terrier, Scottie",Dog     ,1,109
+1,"African chameleon, Chamaeleo chamaeleon",Reptile ,2,472
+2,standard schnauzer,Dog     ,1,156
+3,terrapin,Reptile ,2,461
+4,"great grey owl, great gray owl, Strix nebulosa",Bird    ,0,400
+5,bustard,Bird    ,0,432
+6,ptarmigan,Bird    ,0,402
+7,"Pekinese, Pekingese, Peke",Dog     ,1,69
+8,hen,Bird    ,0,384
+9,"Lhasa, Lhasa apso",Dog     ,1,56
+10,Lakeland terrier,Dog     ,1,152
+11,pelican,Bird    ,0,439
+12,"Tibetan terrier, chrysanthemum dog",Dog     ,1,158
+13,agama,Reptile ,2,467
+14,"junco, snowbird",Bird    ,0,389
+15,mud turtle,Reptile ,2,460
+16,cock,Bird    ,0,383
+17,"cairn, cairn terrier",Dog     ,1,91
+18,Blenheim spaniel,Dog     ,1,198
+19,"brambling, Fringilla montifringilla",Bird    ,0,386
+20,"king penguin, Aptenodytes patagonica",Bird    ,0,440
+21,Chihuahua,Dog     ,1,173
+22,Japanese spaniel,Dog     ,1,99
+23,"Dandie Dinmont, Dandie Dinmont terrier",Dog     ,1,27
+24,"bald eagle, American eagle, Haliaeetus leucocephalus",Bird   ,0,398
+25,"Airedale, Airedale terrier",Dog     ,1,33
+26,"albatross, mollymawk",Bird    ,0,441
+27,"water ouzel, dipper",Bird    ,0,396
+28,black grouse,Bird    ,0,401
+29,"spotted salamander, Ambystoma maculatum",Reptile ,2,497
+30,vulture,Bird    ,0,399
+31,Shih-Tzu,Dog     ,1,116
+32,giant schnauzer,Dog     ,1,36
+33,"common iguana, iguana, Iguana iguana",Reptile ,2,464
+34,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",Reptile ,2,501
+35,"thunder snake, worm snake, Carphophis amoenus",Reptile ,2,477
+36,"basset, basset hound",Dog     ,1,161
+37,"Maltese dog, Maltese terrier, Maltese",Dog     ,1,87
+38,"Sealyham terrier, Sealyham",Dog     ,1,72
+39,"frilled lizard, Chlamydosaurus kingi",Reptile ,2,468
+40,"red-backed sandpiper, dunlin, Erolia alpina",Bird    ,0,434
+41,"redshank, Tringa totanus",Bird    ,0,435
+42,"oystercatcher, oyster catcher",Bird    ,0,437
+43,"American alligator, Alligator mississipiensis",Reptile ,2,476
+44,"hognose snake, puff adder, sand viper",Reptile ,2,479
+45,Australian terrier,Dog     ,1,4
+46,papillon,Dog     ,1,43
+47,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",Reptile ,2,473
+48,"American chameleon, anole, Anolis carolinensis",Reptile ,2,465
+49,"bloodhound, sleuthhound",Dog     ,1,32
+50,"European fire salamander, Salamandra salamandra",Reptile ,2,494
+51,"ostrich, Struthio camelus",Bird    ,0,385
+52,triceratops,Reptile ,2,474
+53,soft-coated wheaten terrier,Dog     ,1,26
+54,West Highland white terrier,Dog     ,1,71
+55,"loggerhead, loggerhead turtle, Caretta caretta",Reptile ,2,458
+56,bulbul,Bird    ,0,392
+57,alligator lizard,Reptile ,2,469
+58,"African crocodile, Nile crocodile, Crocodylus niloticus",Reptile ,2,475
+59,"house finch, linnet, Carpodacus mexicanus",Bird    ,0,388
+60,"goldfinch, Carduelis carduelis",Bird    ,0,387
+61,"common newt, Triturus vulgaris",Reptile ,2,495
+62,"Afghan hound, Afghan",Dog     ,1,98
+63,"bullfrog, Rana catesbeiana",Reptile ,2,499
+64,Rhodesian ridgeback,Dog     ,1,200
+65,beagle,Dog     ,1,132
+66,"green lizard, Lacerta viridis",Reptile ,2,471
+67,banded gecko,Reptile ,2,463
+68,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",Reptile ,2,459
+69,"tree frog, tree-frog",Reptile ,2,500
+70,toy terrier,Dog     ,1,89
+71,"Gila monster, Heloderma suspectum",Reptile ,2,470
+72,"axolotl, mud puppy, Ambystoma mexicanum",Reptile ,2,498
+73,dowitcher,Bird    ,0,436
+74,"whiptail, whiptail lizard",Reptile ,2,466
+75,chickadee,Bird    ,0,395
+76,"green snake, grass snake",Reptile ,2,480
+77,"silky terrier, Sydney silky",Dog     ,1,131
+78,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",Bird ,0,390
+79,"Boston bull, Boston terrier",Dog     ,1,113
+80,"American coot, marsh hen, mud hen, water hen, Fulica americana",Bird ,0,431
+81,"ringneck snake, ring-necked snake, ring snake",Reptile ,2,478
+82,"ruddy turnstone, Arenaria interpres",Bird    ,0,433
+83,"robin, American robin, Turdus migratorius",Bird    ,0,391
+84,magpie,Bird    ,0,394
+85,miniature schnauzer,Dog     ,1,123
+86,"European gallinule, Porphyrio porphyrio",Bird    ,0,438
+87,novel,Novel,3,-1
