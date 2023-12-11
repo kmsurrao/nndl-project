@@ -10,3 +10,5 @@ See [transfer_learning](transfer_learning/) for a fine-tuned ResNet-18 model, ag
 
 See [novel_classes](novel_classes/) for code that handles classifying superclasses and/or subclasses as novel at test time.  The notebook [probabilistic_superclass_and_subclass.ipynb](novel_classes/probabilistic_superclass_and_subclass.ipynb) does this (using a fine-tuned ResNet-18 model) by comparing softmax probabilities, looking at the maximum probability among the previously seen classes, and comparing it to a threshold probability to determine whether the test image belongs to the previously seen class or a novel class. The threshold probabilities are determined based on the mean and variance of the probabilities of image classification in the validation set.   
 
+The [utils](utils/) folder contains miscellaneous utility code.  
+
