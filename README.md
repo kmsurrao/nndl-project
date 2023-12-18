@@ -2,7 +2,7 @@
 
 Exploration of animal image classification into superclasses and subclasses with low resolution images. The primary challenges are that the dataset contains low resolution images, that the distribution of training and testing data may vary significantly, and that novel classes are introduced at test time.  
 
-See [data_augmentation](data_augmentation/) for information about augmenting the dataset and [Upscacle_Real_ESRGAN_Model.ipynb](Upscale/Upscacle_Real_ESRGAN_Model.ipynb) for upscaling the 32x32 images to 128x128 using ESRGAN.    
+See [data_augmentation](data_augmentation/) for information about augmenting the dataset and [Upscacle_Real_ESRGAN_Model.ipynb](Upscale/Upscacle_Real_ESRGAN_Model.ipynb) for upscaling the 32x32 images to 128x128 using Real ESRGAN.    
 
 See [CNN](CNN/) for a simple convolutional neural network implementation of superclass and subclass classification combined, superclass alone, and subclass alone. Here there is no special handling of novel classes introduced at test time.    
 
