@@ -1,6 +1,6 @@
 # nndl-project
 
-Exploration of animal image classification into superclasses and subclasses with low resolution images. The primary challenges are that the distribution of training and testing data may vary significantly and that novel classes are introduced at test time.  
+Exploration of animal image classification into superclasses and subclasses with low resolution images. The primary challenges are that the dataset contains low resolution images, that the distribution of training and testing data may vary significantly, and that novel classes are introduced at test time.  
 
 See [data_augmentation](data_augmentation/) for information about augmenting the dataset.  
 
